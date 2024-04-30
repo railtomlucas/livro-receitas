@@ -22,5 +22,3 @@
 
 4 . Está pronto para servir.
 
-
-
